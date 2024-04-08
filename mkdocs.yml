@@ -1,0 +1,7 @@
+site_name: Nome do Seu Projeto
+theme:
+  name: 'material'
+
+plugins:
+  - search
+  - mkdocstrings
