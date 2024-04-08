@@ -6,6 +6,8 @@
 
 ## Como instalar Python?
 
+https://studio.youtube.com/video/9LYqtLuD7z4
+
 ## O que são Variáveis?
 
 Em programação, uma variável é um nome que é associado a um valor. 
